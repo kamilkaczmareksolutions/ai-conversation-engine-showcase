@@ -1,6 +1,8 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<p align="center"><img src="assets/hero.png" alt="AI Conversation Engine" width="700"/></p>
+https://github.com/user-attachments/assets/aa6dfc18-b729-40d3-9bef-24c1eecf1da5
+
+<!-- Previous hero (backup, static): assets/hero.png -->
 
 <h1 align="center">AI Conversation Engine</h1>
 
